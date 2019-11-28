@@ -6,7 +6,7 @@
   
        
         <ol class="breadcrumb breadcrumb-main">
-            <li class="breadcrumb-item">صفحه اصلی </li>
+      part      <li class="breadcrumb-item">صفحه اصلی </li>
             <li class="breadcrumb-item active">صفحه اصلی </li>
         </ol>
 		
